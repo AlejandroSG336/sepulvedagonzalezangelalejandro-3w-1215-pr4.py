@@ -37,4 +37,4 @@ print(nombre," tiene ", edad,", vive en ", direccion, " y su numero de telefono 
 
 ![image](https://github.com/user-attachments/assets/ce31ff87-0000-4476-bdcf-5c5fe52b852b)
 ![image](https://github.com/user-attachments/assets/bec29a3e-4ccf-423b-9b51-f569785ef90b)
-![image](https://github.com/user-attachments/assets/0d21b92b-e2eb-40ca-9089-984165920591)
+![image](https://github.com/user-attachments/assets/81709fdf-10a4-4479-9e91-ba8ca02cdb60)

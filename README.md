@@ -4,6 +4,8 @@ print("Sepulveda gonzalez Angel Alejandro,3W,1215")
 
 print("")
 
+#preguntar al usuario  los datos
+
 nombre=input("cual es su nombre?")
 
 edad = input("que edad tiene?")
@@ -14,6 +16,8 @@ num_cel = input("cual es su numero de telefono?")
 
 print("")
 
+#escribir el diccionario con los datos que dio el usuario
+
 diccionario={
 
     "nombre": nombre,
@@ -23,7 +27,6 @@ diccionario={
     "direccion": direccion,
     
     "numero de cel": num_cel
-
 }
 
 print (diccionario)
